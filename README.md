@@ -19,8 +19,13 @@ Sử dụng Python để phân khúc khách hàng.
 ![alt](https://i.imgur.com/e7qn73E.png)
 
 ## 3.Method
-- RFM stands for Recency, Frequency, and Monetary Value, and it is a method used in marketing and customer relationship management to analyze and categorize customers based on their transaction behavior.
+RFM stands for Recency, Frequency, and Monetary Value, and it is a method used in marketing and customer relationship management to analyze and categorize customers based on their transaction behavior.
 
 - **Recency (R)**: This measures how recently a customer has made a purchase or engaged with the business. Customers who have made a transaction more recently are often considered more valuable.
 
+- **Frequency (F)**: This measures how often a customer makes a purchase or engages with the business within a specific timeframe. Customers with higher frequency are generally more loyal.
+
+- **Monetary Value (M)**: This measures the total amount of money a customer has spent on purchases. Customers with a higher monetary value are considered high-value customers.
+
+By analyzing and combining these three factors, businesses can create customer segments to target specific groups with tailored marketing campaigns.
 
