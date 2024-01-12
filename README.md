@@ -10,8 +10,13 @@ Sử dụng Python để phân khúc khách hàng.
 - Suggestion to the Marketing and Sales teams within the retail model of Superstore would be to focus most on which of the three indices R, F, M?
 
 ## 2.Dataset
-RFM Dataset includes 2 tables: e commerce retail and segmentation. E commerce retail table transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail. The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
+- RFM Dataset includes 2 tables: e commerce retail and segmentation. E commerce retail table transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail. The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
 
+### 2a. E Commerce Retail Table
 ![alt](https://i.imgur.com/z59jYOM.png)
+
+### 2b. Segmentation Table
+![alt](https://i.imgur.com/e7qn73E.png)
+
 
 
