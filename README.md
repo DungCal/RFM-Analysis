@@ -29,3 +29,8 @@ RFM stands for Recency, Frequency, and Monetary Value, and it is a method used i
 
 By analyzing and combining these three factors, businesses can create customer segments to target specific groups with tailored marketing campaigns.
 
+# II. Visualization
+![alt](https://i.imgur.com/mjMtawB.png)
+
+![alt](https://i.imgur.com/86xON7u.png)
+
