@@ -34,7 +34,11 @@ By analyzing and combining these three factors, businesses can create customer s
 
 ![alt](https://i.imgur.com/86xON7u.png)
 
+![alt](https://i.imgur.com/8KagbUX.png)
+
 ![alt](https://i.imgur.com/VNXFwCu.png)
+
+![alt](https://www.notion.so/GitHub-62871f0996294053ba9997bdf2caa993?pvs=4#3562870b209948d4a01b4df5c034170b)
 
 
 
